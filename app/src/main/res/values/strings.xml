@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">XD</string>
+    <string name="title_activity_home_screen">HomeScreen</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="nav_header_title">Android Studio</string>
+    <string name="nav_header_subtitle">android.studio@android.com</string>
+    <string name="nav_header_desc">Navigation header</string>
+    <string name="action_settings">Settings</string>
+    <string name="action_aboutus">About Us</string>
+    <string name="content_aboutus">
+You are on your way to the forefront of technology,suited to your comfort and luxury.This app will allow you to control your vehicle,make calls,send SOS messages to your friends and family in case of an accident or an emergency,rent XD vehicle,find renting stations nearby using GPS ,display real-time information such as battery percentage and vehicle speed,handle headlight intensity and much more.
+Just sit back,relax and enjoy your ride!
+    </string>
+    <string name="About_us_heading">
+        Welcome to XD !
+    </string>
+
+</resources>
